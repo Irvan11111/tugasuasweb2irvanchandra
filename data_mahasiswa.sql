@@ -88,10 +88,6 @@ CREATE TABLE `datakaryawan` (
 --
 
 INSERT INTO `datakaryawan` (`id`, `nama`, `email`, `nohp`, `ttl`, `tanggallahir`, `idkaryawan`, `gambar`) VALUES
-(1, 'Fajar Firmansyah', 'm.miftahulkhoiri99@gmail.com', '085745678926', 'Bertam, Jambi, Indonesia', '24-06-2004', '123325', '6595af50a221c.jpg'),
-(3, 'Miftahul', 'm.miftahulkhoiri99@gmail.com', '085745678021', 'Mayang, Riau, Indonesia', '10-03-1999', '958909', '6595c0617c733.jpg'),
-(4, 'Aris', 'Arisblabla@gmail.com', '085745678980', 'Kuala Tungkal', '02-03-1989', '958908', '6595c5a900ab7.jpg'),
-(5, 'Bayu', 'syalalala@gmail.com', '082343678926', 'Telanai Jambi', '10-05-2000', '298322', '6595c76699968.jpg');
 
 -- --------------------------------------------------------
 
